@@ -1,7 +1,7 @@
 #include <semaphore.h>
 #include <sys/stat.h>
 #include <fcntl.h>
-#include "semmac.h"
+#include "semt.h"
 #include <stdlib.h>
 #include <stdio.h>
 
